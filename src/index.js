@@ -9,9 +9,9 @@ import { DataProvider } from './hooks/CommonContext';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-````<!--Router basename={process.env.PUBLIC_URL}-->
+    <Router basename={process.env.PUBLIC_URL}>
         <DataProvider>
             <App />
         </DataProvider>
-    <!--/Router>
+    </Router>
 );
