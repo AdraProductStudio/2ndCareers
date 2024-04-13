@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2ndCareers/static/css/main.79ed5076.css",
+    "main.js": "/2ndCareers/static/js/main.56e6ecae.js",
+    "static/media/Self-introduction made with iMovie.mp4": "/2ndCareers/static/media/Self-introduction made with iMovie.6d8806da21d0ce26c036.mp4",
+    "static/media/loginSideImage.png": "/2ndCareers/static/media/loginSideImage.631c3d750dbfdc8d27c4.png",
+    "static/media/forgetPasswordSideImage.png": "/2ndCareers/static/media/forgetPasswordSideImage.69275baeddea966ef198.png",
+    "static/media/resetPasswordSideImage.png": "/2ndCareers/static/media/resetPasswordSideImage.24a8e402d04ebdaf5bbd.png",
+    "static/media/roleSelectorSideImage.png": "/2ndCareers/static/media/roleSelectorSideImage.4144d535534223168132.png",
+    "static/media/professionalSideImage.png": "/2ndCareers/static/media/professionalSideImage.9289d3b11e8b9bc73cb1.png",
+    "static/media/learningImage.jpg": "/2ndCareers/static/media/learningImage.2d1bdefc3109cc3ccb97.jpg",
+    "static/media/learningthree.jpg": "/2ndCareers/static/media/learningthree.7149122cefb6d27b6183.jpg",
+    "static/media/learningtwo.png": "/2ndCareers/static/media/learningtwo.4adf93e777e1dbe6ce24.png",
+    "static/media/company.png": "/2ndCareers/static/media/company.422925292e3aada387dd.png",
+    "index.html": "/2ndCareers/index.html",
+    "main.79ed5076.css.map": "/2ndCareers/static/css/main.79ed5076.css.map",
+    "main.56e6ecae.js.map": "/2ndCareers/static/js/main.56e6ecae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ed5076.css",
+    "static/js/main.56e6ecae.js"
+  ]
+}
